@@ -1,0 +1,47 @@
+h1 {
+    color: blueviolet;
+
+
+}
+
+
+h2 {
+
+    color: bisque;
+
+
+}
+
+div {
+
+    background-color: beige rgb(rgb(26, 1, 1), rgb(35, 73, 35), rgb(25, 25, 97));
+
+}
+
+
+#para1 {
+    color: aqua;
+}
+
+#para2 {
+    color: violet;
+}
+
+#para3 {
+    color: cyan;
+
+}
+
+.hi {
+    text-decoration: overline;
+}
+
+#hey {
+    text-decoration: line-through;
+}
+
+#al {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#al{line-height:;}
+#al{text-transform: lowercase;}
