@@ -1,0 +1,49 @@
+.container {
+    display: flex;
+   
+    align-items: start;}
+   
+
+#box1 {
+
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+}
+
+#box2 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(146, 177, 155);
+   
+}
+
+#box3 {
+    height: 100px;
+        width: 100px;
+    background-color: pink;
+     
+}
+   
+
+
+#box5 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(71, 3, 3);
+/* ? */
+    
+   
+
+#box6 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(214, 102, 121);
+    flex-shrink:2;
+}
+
+#box8 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(156, 5, 28);
+}
